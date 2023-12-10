@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# Moxiglobe Blog is a platform designed to provide a seamless and feature-rich blogging experience. This repository contains the codebase for the Moxiglobe Blog project.
+## Moxiglobe Blog is a platform designed to provide a seamless and feature-rich blogging experience. This repository contains the codebase for the Moxiglobe Blog project.
 
 ## Features
 
