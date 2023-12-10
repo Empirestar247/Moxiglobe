@@ -2,9 +2,6 @@
 
 ![Moxiglobe Blog](https://thumbs.dreamstime.com/b/blog-concept-d-rendering-isolated-white-background-80232181.jpg)
 
-![moxiglobe](https://github.com/Empirestar247/moxiglobe/assets/95166436/01558b44-0c5c-481e-9368-e5428217e426)
-
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 # Moxiglobe Blog is a platform designed to provide a seamless and feature-rich blogging experience. This repository contains the codebase for the Moxiglobe Blog project.
